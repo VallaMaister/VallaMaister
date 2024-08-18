@@ -54,6 +54,8 @@ I am a developer specialized in **SAP Business One**. With a solid background in
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 
+
+
 ## My YouTube Channel: Tecnologiasmaster
 
 I regularly share content related to **SAP Business One** development, including tutorials, tips, and demonstrations. Here are a couple of videos you might find interesting:
@@ -93,6 +95,24 @@ I regularly share content related to **SAP Business One** development, including
 </td>
 </tr>
 </table>
+
+## 📊 GitHub Overview
+
+### 🛠️ My Most Used Languages
+
+![Oscar Valladares's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VallaMaister&layout=compact&theme=radical)
+
+### 📊 GitHub Stats
+
+![Oscar Valladares's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VallaMaister&show_icons=true&theme=radical)
+
+### 🏆 GitHub Trophy
+
+![trophy](https://github-profile-trophy.vercel.app/?username=VallaMaister&theme=radical)
+
+### 🔥 Contribution Streak
+
+![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=VallaMaister&theme=radical)
 
 
 ### Connect with me:
