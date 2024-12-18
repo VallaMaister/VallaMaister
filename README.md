@@ -7,7 +7,7 @@ I am a developer specialized in **SAP Business One**. With a solid background in
 - **Engineer in Computer Systems** from the University of Colima with **10 years of experience** in Information Technology.
 - Approximately **8 years of experience** working with **SAP Business One**.
 - Proficient in developing custom solutions using **C#** and the **SAP Business One SDK**.
-- Skilled in **Service Layer** for integrating **SAP Business One** with modern frontends using **Angular** and **React**.
+- Skilled in **Service Layer** for integrating **SAP Business One** with modern frontends using **Angular**.
 
 ## Skills:
 
