@@ -26,6 +26,15 @@ I am a developer specialized in **SAP Business One**. With a solid background in
 ![IIS](https://img.shields.io/badge/IIS-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
+### AWS:
+
+![Amplify](https://img.shields.io/badge/Amplify-c0392b?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=232F3E)
+![API GateWay](https://img.shields.io/badge/API_GateWay-9b59b6?style=for-the-badge&logo=amazonaws&logoColor=white)
+![RDS Aurora](https://img.shields.io/badge/RDS_Aurora-2846bd?style=for-the-badge&logo=amazonaws&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-c0392b?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Cognito](https://img.shields.io/badge/Cognito-c0392b?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 ### Frontend:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
